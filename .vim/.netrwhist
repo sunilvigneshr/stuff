@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/sunilvigneshr/code/react-leaflet/src'
+let g:netrw_dirhist_2='/Users/sunilvigneshr/code/react-leaflet/example'
+let g:netrw_dirhist_3='/Users/sunilvigneshr/code/react-leaflet'
+let g:netrw_dirhist_4='/Users/sunilvigneshr/code/app/src'
+let g:netrw_dirhist_5='/Users/sunilvigneshr/code/app'
+let g:netrw_dirhist_6='/Users/sunilvigneshr/code/app/src'
+let g:netrw_dirhist_7='/Users/sunilvigneshr/code/bachi-spike'
+let g:netrw_dirhist_8='/Users/sunilvigneshr/Downloads/nRF51_SDK_8.0.0_5fc2c3a/examples/ant/ant_fs/client/include'
+let g:netrw_dirhist_9='/Users/sunilvigneshr/code/hammerhead/osrm-backend/routing_algorithms'

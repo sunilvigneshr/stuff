@@ -1,0 +1,24 @@
+[user]
+	name = Sunil
+	email = sunilvigneshr@gmail.com
+[alias]
+	l = log
+	st = status
+	co = checkout
+	br = branch
+	c = commit
+[core]
+	whitespace = trailing-space,space-before-tab
+[color]
+        ui = auto
+        diff = auto
+        status = auto
+        branch = auto
+[grep]
+        lineNumber = true
+[log]
+        date = relative
+[push]
+        default = current
+[format]
+        pretty = %C(yellow)%h%Creset %s %C(red)(%an, %cr)%Creset
